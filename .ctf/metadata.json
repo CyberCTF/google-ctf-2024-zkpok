@@ -1,0 +1,14 @@
+{
+  "title": "Google CTF 2024: ZKPOK",
+  "description": "A Fiat-Shamir proof that you know a square root of c modulo n, hashed with MD5. The server prints its message only for its own n and c.",
+  "question": "Retrieve the flag from the challenge service.",
+  "category": "CRYPTO",
+  "difficulty": 4,
+  "evidence_kind": "SECRET",
+  "capabilities": [
+    "zero-knowledge-proof",
+    "fiat-shamir",
+    "md5",
+    "cryptography"
+  ]
+}
