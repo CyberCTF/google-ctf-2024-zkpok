@@ -4,11 +4,5 @@
   "question": "Retrieve the flag from the challenge service.",
   "category": "CRYPTO",
   "difficulty": 4,
-  "evidence_kind": "SECRET",
-  "capabilities": [
-    "zero-knowledge-proof",
-    "fiat-shamir",
-    "md5",
-    "cryptography"
-  ]
+  "evidence_kind": "SECRET"
 }
