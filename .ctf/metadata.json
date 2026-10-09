@@ -3,6 +3,6 @@
   "description": "A Fiat-Shamir proof that you know a square root of c modulo n, hashed with MD5. The server prints its message only for its own n and c.",
   "question": "Retrieve the flag from the challenge service.",
   "category": "CRYPTO",
-  "difficulty": 4,
+  "difficulty": 3,
   "evidence_kind": "SECRET"
 }
