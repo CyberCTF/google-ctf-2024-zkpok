@@ -1,8 +1,11 @@
 {
+  "project_name": "cyberlabs-google-ctf-2024-zkpok",
+  "slug": "google-ctf-2024-zkpok",
   "title": "Google CTF 2024: ZKPOK",
   "description": "A Fiat-Shamir proof that you know a square root of c modulo n, hashed with MD5. The server prints its message only for its own n and c.",
-  "question": "Forge a proof of knowledge for the server's ciphertext and read the flag.",
-  "category": "CRYPTO",
+  "category": "crypto",
   "difficulty": 3,
-  "evidence_kind": "SECRET"
+  "evidence_kind": "SECRET",
+  "capabilities": [],
+  "question": "Forge a proof of knowledge for the server's ciphertext and read the flag."
 }
